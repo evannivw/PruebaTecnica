@@ -1,6 +1,6 @@
 # prueba_tecnica
 
-A new Flutter project.
+Prueba tecnica para seguros universales
 
 ## Getting Started
 
