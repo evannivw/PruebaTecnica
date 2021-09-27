@@ -4,13 +4,12 @@ Prueba tecnica para seguros universales
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto se hizo a base de los requerimientos enviados al correo
 
-A few resources to get you started if this is your first Flutter project:
+Se utilizaron las siguientes dependencias :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [cupertino_icons](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUyL27-p_zAhWQQTABHS8JBLcQFnoECA8QAw&url=https%3A%2F%2Fpub.dev%2Fpackages%2Fcupertino_icons&usg=AOvVaw2i1wifhJUPLFfwOg-KsIlk)
+- [http](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjDpNi0-p_zAhWqQjABHZ2nB2sQFnoECAsQAw&url=https%3A%2F%2Fpub.dev%2Fpackages%2Fhttp&usg=AOvVaw2yBDRr3yLYCYCtgJGzwYnU)
+- [sqflite](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjCofat-p_zAhX2TDABHcy1APIQFnoECAwQAw&url=https%3A%2F%2Fpub.dev%2Fpackages%2Fsqflite&usg=AOvVaw2sdHbSNGYRMvKcZe1cqk6a)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
